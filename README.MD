@@ -23,18 +23,6 @@ Acesse a versão online do Simulador de Piano Virtual diretamente pelo GitHub Pa
 - **Volume**: Ajuste o controle deslizante para alterar o volume.
 - **Rótulos das Teclas**: Use a caixa de seleção para alternar a exibição dos rótulos das teclas.
 
-## 📁 Estrutura do Projeto
-simulador-de-piano-virtual/
-├── index.html        # Arquivo principal HTML
-├── src/
-│   ├── styles/
-│   │   ├── reset.css # Arquivo de reset de CSS
-│   │   ├── main.css  # Arquivo principal de estilos
-│   ├── scripts/
-│   │   ├── engine.js # Lógica principal em JavaScript
-│   ├── tunes/        # Arquivos de áudio do piano
-
-
 ## 🎨 Pré-visualização
 ![Captura de Tela do Piano Virtual](./src/image/screenshot_simulador-piano.jpg)  
 *Exemplo de captura de tela do Simulador de Piano Virtual.*
