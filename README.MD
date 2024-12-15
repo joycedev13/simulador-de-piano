@@ -41,6 +41,3 @@ simulador-de-piano-virtual/
 
 ## 🙌 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork do repositório e enviar um pull request.
-
-## 📜 Licença
-Este projeto está licenciado sob a Licença MIT.
